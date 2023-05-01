@@ -2,12 +2,6 @@
 
 Si necesitamos asegurarnos que el valor de un campo se encuentre dentro de unos limites es decir dentro de un rango especifico, el control RangeValidator se asegura que el valor de un campo sea del tipo que necesitemos y se encuentre dentro de los valores iniciales y finales que necesitemos, descarga el código desde este enlace.
 
-
-Lo compilamos:
-
-(.NET)csc /t:library -r:System.Web ValidarRango.aspx.cs
-(mono) mcs /t:library -r:System.Web ValidarRango.aspx.cs
-
 Lo instalamos: copiamos el ensamblado a la carpeta bin ejecutamos xsp y abrimos el navegador con la dirección http://localhost:8080/ValidarRango.aspx.
 Si todo es correcto se mostrará la ejecucción como en la siguiente imagen:
 
