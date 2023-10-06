@@ -4,6 +4,7 @@ Si necesitamos asegurarnos que el valor de un campo se encuentre dentro de unos 
 
 Lo instalamos: copiamos el ensamblado a la carpeta bin ejecutamos xsp y abrimos el navegador con la dirección http://localhost:8080/ValidarRango.aspx.
 Si todo es correcto se mostrará la ejecucción como en la siguiente imagen:
+<img src="image1.png">
 
 <h3>Propiedades del control RangeValidator</h3>
 
