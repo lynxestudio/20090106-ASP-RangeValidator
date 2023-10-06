@@ -1,6 +1,6 @@
 <%@Page language="C#" AutoEventWireUp="false" 
 CodeBehind="ValidarRango" 
-Inherits="blog.listings.ValidarRango"%>
+Inherits="Samples.Repo"%>
 <html>
 <head><title>Validar Rango</title></head>
 <body>
