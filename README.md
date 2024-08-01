@@ -6,7 +6,7 @@ Si necesitamos asegurarnos que el valor de un campo se encuentre dentro de unos 
 <p align="justify">
 Lo instalamos: copiamos el ensamblado a la carpeta bin ejecutamos xsp y abrimos el navegador con la dirección <i>http://localhost:8080/ValidarRango.aspx.</i>
 Si todo es correcto se mostrará la ejecucción como en la siguiente imagen:
-<div>
+<div align="center">
 <img src="image1.png"/>
 </div>
 </p>
